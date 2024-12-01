@@ -1,2 +1,3 @@
-The class takes a list and validates if there are any positive integers in it or something non valid.
+The class takes a list and validates if there are any positive integers in it or something non valid. 
+The map() function ensures that everything is a string because the isdigit needs it to be a string.
 Then the code gives you how many positive integers there was and finaly prints the list of only the positive integers
