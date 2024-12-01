@@ -1,0 +1,2 @@
+The class takes a list and validates if there are any positive integers in it or something non valid.
+Then the code gives you how many positive integers there was and finaly prints the list of only the positive integers
